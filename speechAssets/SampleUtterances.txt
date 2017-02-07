@@ -1,0 +1,8 @@
+RedditIntent for top news
+RedditIntent for jokes
+RedditIntent for world news
+RedditIntent for new world news
+RedditIntent for top shower thoughts
+RedditIntent {ListType} {Topic}
+
+

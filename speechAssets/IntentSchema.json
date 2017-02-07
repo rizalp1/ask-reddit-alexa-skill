@@ -1,0 +1,26 @@
+{
+  "intents": [
+    {
+     "intent": "RedditIntent",
+     "slots":[
+        {
+          "name": "Topic",
+          "type": "LIST_OF_TOPICS"
+        },
+        {
+         "name": "ListType",
+         "type": "LIST_OF_LIST_TYPES"
+        }
+      ]
+    },
+    {
+      "intent": "AMAZON.HelpIntent"
+    },
+    {
+      "intent": "AMAZON.StopIntent"
+    },
+    {
+      "intent": "AMAZON.CancelIntent"
+    }
+  ]
+}
